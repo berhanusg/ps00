@@ -1,0 +1,15 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |6|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+;quadratic root : nonzeroReal Number, Real Number, Real Number   -> Real Numbers
+    ; GIVEN: a quadratic equation of the form a(x squared) +bx + c 
+    ; RETURNS: the square root  of the equation
+    ; Examples:
+    ; quadratic root  3 10  8 => 2/3 
+    ; quadratic root  1 8 15 => -2/3
+;Divide and conquer
+
+;(+ -10 ( sqrt (-( * 10  10) ( * (* 4 3 ) 8))))
+
+; (/ (+ -10 ( sqrt (-( * 10  10) ( * (* 4 3 ) 8))))(* 2 3))
+

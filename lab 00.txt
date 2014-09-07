@@ -1,0 +1,15 @@
+Date  who Start Stop    Interruptions Question TimeOnTask        Comments
+9 /5  BS    4:00 9:00 PM                       5 hrs              Installed 
+9/6   BS    10:00 AM 5:00 PM  45min			   5 hrs		       Difficulty with github, connecting, account 9/6   BS    5:00PM 5:10                                            Q1     10 min
+9/6   BS    5:20PM   5:30PM             Q2     10 Min
+9/6   BS    5:34     6:06PM             Q3     32 Min
+9/6   BS    6:07     6:20               Q4     13 Min
+9/6   BS    6:28     6:35               Q5     7 Min
+9/6   BS    6:35     7:46      10 Break         61 Min            Dr. Racket does not save the evaluation redid
+9/6   BS    8:25     8:35                   Q6  10 Min
+9/6   BS    8:25     8:54        10 min     Q7   19 Min
+9/6   BS    8:54     9:02                   Q8   8 Min          Nothing happened here  tried Remainder and F1 may be Mac ?
+9/6   BS    9:04     9:19            40 min Q9   15 Min
+9/6   BS    10:00    10:30PM               Q10     30 Min         else what? x < y &&  x < z => ( + y z ) ...testing continued among the three  did I check all possibility?
+
+225 minutes 
