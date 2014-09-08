@@ -18,3 +18,4 @@ Date  who Start Stop    Interruptions Question TimeOnTask        Comments
 9/7   BS    8:25       8:39      Q2     5min      10 min     worked on contract, purpose example and function definition 
 9/7   BS    8:39       8:47      Q4               8 min      Tried the functions in the interactions 
 9/7   BS    8:47       8:50      Q5               3 min      tried the functions in the interaction
+=========================================================Committed 8:56 PM
