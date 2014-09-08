@@ -19,3 +19,6 @@ Date  who Start Stop    Interruptions Question TimeOnTask        Comments
 9/7   BS    8:39       8:47      Q4               8 min      Tried the functions in the interactions 
 9/7   BS    8:47       8:50      Q5               3 min      tried the functions in the interaction
 =========================================================Committed 8:56 PM
+9/8   BS    10:00      10:11     Q5                11 min defined and tested the sq function Both tests passed!
+9/8   BS    10:11      10:18     Q4                7 min  defined and tested the tip function Both tests passed!
+9/8   BS    10:18      12:29     Q6                2 HOURS!! GOT THIS RESULTcheck-expect cannot compare inexact numbers. Try (check-within test -1.0+1.7320508075688772i range).

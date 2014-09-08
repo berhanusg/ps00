@@ -8,6 +8,12 @@
     ; Examples:
     ; (tip 10 0.15)  => 1.5
     ; (tip 20 0.17)  => 3.4
+
+
+(check-expect ( tip 10 0.15 )( * 10 .15))
+(check-expect ( tip 100 0.15 )( * 100 .15))
+(define ( tip x y) ( * x y))
+;; both tests passed
 ;; > ( * 100  0.15 )
 ;;15
 ;;> ( * 200  0.12)
