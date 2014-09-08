@@ -13,3 +13,8 @@ Date  who Start Stop    Interruptions Question TimeOnTask        Comments
 9/6   BS    10:00    10:30PM               Q10     30 Min         else what? x < y &&  x < z => ( + y z ) ...testing continued among the three  did I check all possibility?
 
 225 minutes 
+======================================================= Committed
+9/7   BS    8:10       8:21      Q1               11 Min     worked on contract, purpose example and function definition     
+9/7   BS    8:25       8:39      Q2     5min      10 min     worked on contract, purpose example and function definition 
+9/7   BS    8:39       8:47      Q4               8 min      Tried the functions in the interactions 
+9/7   BS    8:47       8:50      Q5               3 min      tried the functions in the interaction
