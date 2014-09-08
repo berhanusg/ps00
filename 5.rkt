@@ -13,5 +13,7 @@
 ;;36
 ;;> 
 
-
-
+(check-expect (sq 3) (* 3 3))
+(check-expect ( sq  4)( * 4 4))
+ ;(check-expect( double 4.2) ( * 2 4.2))
+( define ( sq n)  ( * n n))
