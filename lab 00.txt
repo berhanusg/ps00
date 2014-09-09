@@ -22,3 +22,19 @@ Date  who Start Stop    Interruptions Question TimeOnTask        Comments
 9/8   BS    10:00      10:11     Q5                11 min defined and tested the sq function Both tests passed!
 9/8   BS    10:11      10:18     Q4                7 min  defined and tested the tip function Both tests passed!
 9/8   BS    10:18      12:29     Q6                2 HOURS!! GOT THIS RESULTcheck-expect cannot compare inexact numbers. Try (check-within test -1.0+1.7320508075688772i range).
+=====================================COMMITTED AT 2:30
+
+Total time on Q1   minutes 21 
+Total time on Q2   minutes 20
+Total time on Q3   minutes 31
+Total time on Q4  minutes  20
+Total time on Q5  minutes  10  
+Total time on Q6   minutes 126 
+Total time on Q7  minutes  19
+Total time on Q8  minutes  8
+Total time on Q9   minutes 21 
+   
+Total time on Q10  minutes 30
+Total time  on Questions only  306 minutes !
+Analysis and figuring out what to do 600 minutes
+=================================Commited 5:30
